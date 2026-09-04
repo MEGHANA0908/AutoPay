@@ -1,0 +1,56 @@
+[
+  {
+    "id": 101,
+    "sku": "ADDON-001",
+    "name": "Ankle Socks (Pair)",
+    "category": "addon",
+    "price": 149,
+    "description": "Breathable cotton-blend ankle socks, ideal with any sneaker.",
+    "tags": ["socks", "comfort"]
+  },
+  {
+    "id": 102,
+    "sku": "ADDON-002",
+    "name": "Cushioned Insole",
+    "category": "addon",
+    "price": 299,
+    "description": "Extra-cushioned insole for all-day comfort.",
+    "tags": ["insole", "comfort"]
+  },
+  {
+    "id": 103,
+    "sku": "ADDON-003",
+    "name": "Shoe Cleaning Kit",
+    "category": "addon",
+    "price": 249,
+    "description": "Brush and solution kit to keep sneakers looking fresh.",
+    "tags": ["care", "cleaning"]
+  },
+  {
+    "id": 104,
+    "sku": "ADDON-004",
+    "name": "Waterproof Spray",
+    "category": "addon",
+    "price": 199,
+    "description": "Protective spray to waterproof shoes and extend their life.",
+    "tags": ["care", "protection"]
+  },
+  {
+    "id": 105,
+    "sku": "ADDON-005",
+    "name": "Spare Laces (Pair)",
+    "category": "addon",
+    "price": 99,
+    "description": "Durable spare laces in multiple colors.",
+    "tags": ["laces", "accessory"]
+  },
+  {
+    "id": 106,
+    "sku": "ADDON-006",
+    "name": "Shoe Horn",
+    "category": "addon",
+    "price": 79,
+    "description": "Compact shoe horn for easy, damage-free wear.",
+    "tags": ["accessory", "convenience"]
+  }
+]

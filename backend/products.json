@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1,
+    "sku": "SHOE-001",
+    "brand": "Nike",
+    "name": "Air Zoom Pegasus 40",
+    "type": "sport",
+    "color": "black",
+    "currency": "INR",
+    "price": 8999,
+    "in_stock": true,
+    "total_stock": 22,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 3
+      }
+    ],
+    "description": "Everyday running shoe with responsive cushioning, built for daily training miles.",
+    "tags": [
+      "running",
+      "training",
+      "everyday",
+      "cushioned"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=air+zoom+pegasus+40"
+  },
+  {
+    "id": 2,
+    "sku": "SHOE-002",
+    "brand": "Nike",
+    "name": "Court Vision Low",
+    "type": "casual",
+    "color": "white",
+    "currency": "INR",
+    "price": 5499,
+    "in_stock": true,
+    "total_stock": 25,
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 4
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 9
+      },
+      {
+        "size": 9,
+        "stock": 5
+      }
+    ],
+    "description": "Retro basketball-inspired low-top sneaker for everyday casual wear.",
+    "tags": [
+      "sneaker",
+      "streetwear",
+      "everyday",
+      "retro"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=court+vision+low"
+  },
+  {
+    "id": 3,
+    "sku": "SHOE-003",
+    "brand": "Adidas",
+    "name": "Ultraboost Light",
+    "type": "sport",
+    "color": "blue",
+    "currency": "INR",
+    "price": 14999,
+    "in_stock": true,
+    "total_stock": 15,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 3
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 4
+      },
+      {
+        "size": 10,
+        "stock": 2
+      }
+    ],
+    "description": "Premium performance running shoe with high energy-return Boost midsole.",
+    "tags": [
+      "running",
+      "performance",
+      "premium",
+      "cushioned"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=ultraboost+light"
+  },
+  {
+    "id": 4,
+    "sku": "SHOE-004",
+    "brand": "Adidas",
+    "name": "Samba OG",
+    "type": "casual",
+    "color": "white/green",
+    "currency": "INR",
+    "price": 8499,
+    "in_stock": true,
+    "total_stock": 24,
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 4
+      }
+    ],
+    "description": "Iconic low-profile leather sneaker, a streetwear staple.",
+    "tags": [
+      "sneaker",
+      "streetwear",
+      "iconic",
+      "leather"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=samba+og"
+  },
+  {
+    "id": 5,
+    "sku": "SHOE-005",
+    "brand": "Puma",
+    "name": "Velocity Nitro 3",
+    "type": "sport",
+    "color": "orange",
+    "currency": "INR",
+    "price": 7999,
+    "in_stock": true,
+    "total_stock": 14,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 3
+      }
+    ],
+    "description": "Lightweight nitrogen-infused running shoe for speed workouts.",
+    "tags": [
+      "running",
+      "lightweight",
+      "speed",
+      "training"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=velocity+nitro+3"
+  },
+  {
+    "id": 6,
+    "sku": "SHOE-006",
+    "brand": "Puma",
+    "name": "Suede Classic",
+    "type": "casual",
+    "color": "maroon",
+    "currency": "INR",
+    "price": 4999,
+    "in_stock": true,
+    "total_stock": 19,
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 9
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 4
+      }
+    ],
+    "description": "Classic suede sneaker with a timeless silhouette, great for everyday styling.",
+    "tags": [
+      "sneaker",
+      "casual",
+      "classic",
+      "suede"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=suede+classic"
+  },
+  {
+    "id": 7,
+    "sku": "SHOE-007",
+    "brand": "Reebok",
+    "name": "Nano X4",
+    "type": "sport",
+    "color": "grey",
+    "currency": "INR",
+    "price": 9999,
+    "in_stock": true,
+    "total_stock": 17,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 6
+      },
+      {
+        "size": 10,
+        "stock": 2
+      }
+    ],
+    "description": "Cross-training shoe built for gym workouts, lifting, and HIIT sessions.",
+    "tags": [
+      "training",
+      "gym",
+      "crossfit",
+      "stable"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=nano+x4"
+  },
+  {
+    "id": 8,
+    "sku": "SHOE-008",
+    "brand": "Reebok",
+    "name": "Classic Leather",
+    "type": "casual",
+    "color": "white",
+    "currency": "INR",
+    "price": 5999,
+    "in_stock": true,
+    "total_stock": 21,
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 7
+      },
+      {
+        "size": 7,
+        "stock": 8
+      },
+      {
+        "size": 8,
+        "stock": 6
+      }
+    ],
+    "description": "Minimalist all-white leather sneaker that pairs with almost anything.",
+    "tags": [
+      "sneaker",
+      "casual",
+      "minimalist",
+      "leather"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=classic+leather"
+  },
+  {
+    "id": 9,
+    "sku": "SHOE-009",
+    "brand": "New Balance",
+    "name": "990v6",
+    "type": "sport",
+    "color": "grey/navy",
+    "currency": "INR",
+    "price": 16999,
+    "in_stock": true,
+    "total_stock": 9,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 3
+      },
+      {
+        "size": 8,
+        "stock": 4
+      },
+      {
+        "size": 9,
+        "stock": 2
+      }
+    ],
+    "description": "Made-in-USA premium running shoe known for comfort and craftsmanship.",
+    "tags": [
+      "running",
+      "premium",
+      "comfort",
+      "everyday"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=990v6"
+  },
+  {
+    "id": 10,
+    "sku": "SHOE-010",
+    "brand": "New Balance",
+    "name": "574 Core",
+    "type": "casual",
+    "color": "green",
+    "currency": "INR",
+    "price": 7499,
+    "in_stock": true,
+    "total_stock": 16,
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 5
+      }
+    ],
+    "description": "Retro-running-style sneaker, a versatile everyday casual pick.",
+    "tags": [
+      "sneaker",
+      "casual",
+      "retro",
+      "everyday"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=574+core"
+  },
+  {
+    "id": 11,
+    "sku": "SHOE-011",
+    "brand": "Asics",
+    "name": "Gel-Kayano 31",
+    "type": "sport",
+    "color": "black/red",
+    "currency": "INR",
+    "price": 12999,
+    "in_stock": true,
+    "total_stock": 14,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 5
+      },
+      {
+        "size": 9,
+        "stock": 4
+      },
+      {
+        "size": 10,
+        "stock": 1
+      }
+    ],
+    "description": "Stability running shoe with gel cushioning, ideal for long-distance runners.",
+    "tags": [
+      "running",
+      "stability",
+      "long-distance",
+      "cushioned"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=gel-kayano+31"
+  },
+  {
+    "id": 12,
+    "sku": "SHOE-012",
+    "brand": "Skechers",
+    "name": "Go Walk Flex",
+    "type": "casual",
+    "color": "grey",
+    "currency": "INR",
+    "price": 3999,
+    "in_stock": true,
+    "total_stock": 24,
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 8
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 7
+      }
+    ],
+    "description": "Ultra-light slip-on walking shoe designed for all-day comfort.",
+    "tags": [
+      "walking",
+      "comfort",
+      "lightweight",
+      "slip-on"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=go+walk+flex"
+  },
+  {
+    "id": 13,
+    "sku": "SHOE-013",
+    "brand": "Woodland",
+    "name": "Trail Explorer GB",
+    "type": "outdoor",
+    "color": "brown",
+    "currency": "INR",
+    "price": 6999,
+    "in_stock": true,
+    "total_stock": 21,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 6
+      },
+      {
+        "size": 8,
+        "stock": 7
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 3
+      }
+    ],
+    "description": "Rugged outdoor shoe with reinforced grip, built for trekking and rough terrain.",
+    "tags": [
+      "outdoor",
+      "trekking",
+      "rugged",
+      "grip"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=trail+explorer+gb"
+  },
+  {
+    "id": 14,
+    "sku": "SHOE-014",
+    "brand": "Bata",
+    "name": "Comfit Formal Slip-on",
+    "type": "formal",
+    "color": "black",
+    "currency": "INR",
+    "price": 2499,
+    "in_stock": true,
+    "total_stock": 15,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 5
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 4
+      }
+    ],
+    "description": "Comfortable formal slip-on shoe suited for office and daily wear.",
+    "tags": [
+      "formal",
+      "office",
+      "slip-on",
+      "budget"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=comfit+formal+slip-on"
+  },
+  {
+    "id": 15,
+    "sku": "SHOE-015",
+    "brand": "Campus",
+    "name": "Oxy Running Shoe",
+    "type": "sport",
+    "color": "royal blue",
+    "currency": "INR",
+    "price": 1799,
+    "in_stock": true,
+    "total_stock": 33,
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 10
+      },
+      {
+        "size": 7,
+        "stock": 9
+      },
+      {
+        "size": 8,
+        "stock": 8
+      },
+      {
+        "size": 9,
+        "stock": 6
+      }
+    ],
+    "description": "Affordable everyday running shoe, a solid budget pick for casual training.",
+    "tags": [
+      "running",
+      "budget",
+      "everyday",
+      "value"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=oxy+running+shoe"
+  },
+  {
+    "id": 16,
+    "sku": "SHOE-016",
+    "brand": "One8 X Puma",
+    "name": "One8 Virat Kohli Runner",
+    "type": "sport",
+    "color": "black/red",
+    "currency": "INR",
+    "price": 4999,
+    "in_stock": true,
+    "total_stock": 17,
+    "sizes": [
+      {
+        "size": 7,
+        "stock": 4
+      },
+      {
+        "size": 8,
+        "stock": 6
+      },
+      {
+        "size": 9,
+        "stock": 5
+      },
+      {
+        "size": 10,
+        "stock": 2
+      }
+    ],
+    "description": "Performance running shoe from Virat Kohli's One8 line with Puma, built for training runs.",
+    "tags": [
+      "running",
+      "training",
+      "celebrity-collab",
+      "performance"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=one8+virat+kohli+runner"
+  },
+  {
+    "id": 17,
+    "sku": "SHOE-017",
+    "brand": "One8 X Puma",
+    "name": "One8 Casual Sneaker",
+    "type": "casual",
+    "color": "white/black",
+    "currency": "INR",
+    "price": 3499,
+    "in_stock": true,
+    "total_stock": 18,
+    "sizes": [
+      {
+        "size": 6,
+        "stock": 5
+      },
+      {
+        "size": 7,
+        "stock": 7
+      },
+      {
+        "size": 8,
+        "stock": 6
+      }
+    ],
+    "description": "Everyday casual sneaker from the One8 X Puma collaboration line.",
+    "tags": [
+      "sneaker",
+      "casual",
+      "celebrity-collab",
+      "everyday"
+    ],
+    "image_url": "https://via.placeholder.com/500x500.png?text=one8+casual+sneaker"
+  }
+]
